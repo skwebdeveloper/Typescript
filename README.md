@@ -1,2 +1,2 @@
 # Typescript
-Important topics on typescript
+Important topics of typescript
